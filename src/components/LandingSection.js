@@ -16,7 +16,7 @@ const LandingSection = () => (
     backgroundColor="#2A4365"
   >
     <VStack mb={2}>
-      <Avatar name="Lexzee" src="https://i.pravatar.cc/150?img=7" size="md"/>
+      <Avatar name="Lexzee" src="https://i.pravatar.cc/150?img=7" size="xl"/>
       <Text fontSize="10px">{greeting}</Text>
     </VStack>
     <VStack>
